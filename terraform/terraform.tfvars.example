@@ -9,7 +9,7 @@ project_name = "aws-devops"
 environment  = "prod"
 
 # GitHub Configuration
-github_repo   = "Amitabh-DevOps/aws-devops"
+github_repo   = "Amitabh-DevOps/aws-devops" # Use your GitHub username
 github_branch = "main"
 github_token = "your-github-personal-access-token-here"  # Add your token
 
