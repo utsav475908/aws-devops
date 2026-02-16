@@ -23,7 +23,7 @@ variable "environment" {
 variable "github_repo" {
   description = "GitHub repository in format: owner/repo"
   type        = string
-  default     = "Amitabh-DevOps/aws-devops"
+  default     = "LondheShubham153/aws-devops"
 }
 
 variable "github_branch" {
