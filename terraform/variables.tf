@@ -5,7 +5,7 @@
 variable "aws_region" {
   description = "AWS region for resources"
   type        = string
-  default     = "us-east-1"
+  default     = "eu-north-1b"
 }
 
 variable "project_name" {
@@ -23,7 +23,7 @@ variable "environment" {
 variable "github_repo" {
   description = "GitHub repository in format: owner/repo"
   type        = string
-  default     = "LondheShubham153/aws-devops"
+  default     = "utsav475908/aws-devops"
 }
 
 variable "github_branch" {
