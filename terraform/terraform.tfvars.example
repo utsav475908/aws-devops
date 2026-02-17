@@ -4,14 +4,14 @@
 # Copy this file to terraform.tfvars and update with your values
 
 # AWS Configuration
-aws_region   = "us-east-1"
+aws_region   = "eu-north-1b"
 project_name = "aws-devops"
 environment  = "prod"
 
 # GitHub Configuration
-github_repo   = "Amitabh-DevOps/aws-devops" # Use your GitHub username
+github_repo   = "utsav475908/aws-devops" # Use your GitHub username
 github_branch = "main"
-github_token = "your-github-personal-access-token-here"  # Add your token
+github_token = "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"  # Add your token
 
 # Container Configuration
 container_port   = 3000
